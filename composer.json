@@ -1,0 +1,21 @@
+{
+    "name": "wallsblack/yii2-blockchain-api",
+    "description": "dev",
+    "type": "library",
+    "keywords": ["yii2","extension","blockchain","api"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wallsblack",
+            "email": "autho.od@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "wallsblack\\blockchain\\": ""
+        }
+    }
+}
